@@ -1,7 +1,29 @@
 {
-  "name": "a",
+  "name": "plan-my-trip",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
+  "title": "PlanMyTrip: Smart AI Trip Planner",
+  "description": "PlanMyTrip is an AI-driven trip planning tool that helps users create personalized travel itineraries effortlessly.",
+  "keywords": [
+    "PlanMyTrip", "AI Trip Planner", "travel planning", "itineraries", "smart travel", "vacation planning",
+    "trip automation", "personalized travel", "real-time updates", "travel assistant",
+    "Next.js", "React.js", "TailwindCSS", "Docker", "AI travel", "travel recommendations", "travel app", "travel technology"
+  ],
+  "author": "UjjwalS <ujjwalsaini0007+planmytrip@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/UjjwalSaini07/PlanMyTrip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UjjwalSaini07/PlanMyTrip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UjjwalSaini07/PlanMyTrip/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -22,5 +44,17 @@
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.6"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

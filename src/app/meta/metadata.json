@@ -1,0 +1,34 @@
+{
+  "viewport": "width=device-width, initial-scale=1.0",
+  "httpEquiv": "IE=edge",
+  "description": "Plan your perfect trip in seconds with our AI Trip Planner 🌍. Get personalized itineraries, smart recommendations, and real-time updates—effortless travel planning for any destination ✈️. Save time, explore more, and enjoy stress-free adventures!",
+  "author": "UjjwalS",
+  "keywords": "PlanMyTrip, AI Trip Planner, travel planning, itineraries, smart travel, vacation planning, trip automation, personalized travel, real-time updates, travel assistant, Next.js, React.js, TailwindCSS, Docker, AI travel, travel recommendations, travel app, travel technology",
+  "og": {
+    "title": "PlanMyTrip: Smart AI Trip Planner",
+    "author": "UjjwalS",
+    "description": "Discover the future of travel with PlanMyTrip 🌍 — your intelligent travel assistant. Instantly generate custom itineraries, explore smart recommendations, and get real-time updates for stress-free adventures.",
+    "image": "/PlanMyTripLogo.png",
+    "url": "http://localhost:3000/",
+    "type": "website",
+    "locale": "en_US",
+    "site_name": "PlanMyTrip"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "PlanMyTrip: Smart AI Trip Planner",
+    "description": "Plan the perfect getaway in seconds ✈️. With AI-powered itineraries, real-time updates, and personalized travel recommendations, PlanMyTrip makes your journey effortless.",
+    "image": "/PlanMyTripLogo.png",
+    "site": "@PlanMyTripAI",
+    "creator": "@UjjwalSaini0007"
+  },
+  "canonical": "http://localhost:3000/",
+  "robots": "index, follow",
+  "themeColor": "#",
+  "rating": "General",
+  "distribution": "Global",
+  "copyright": "PlanMyTrip ©2025",
+  "applicationName": "PlanMyTrip",
+  "appleMobileWebAppTitle": "PlanMyTrip",
+  "appleMobileWebAppCapable": "yes"
+}
